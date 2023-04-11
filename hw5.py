@@ -35,6 +35,3 @@ robovsky = Hamster('Rob', 47, 4)
 robovsky.age = float(0.5)
 robovsky.say_hello()
 robovsky.say_hello()
-
-def mult(a, b):
-    return a*b
